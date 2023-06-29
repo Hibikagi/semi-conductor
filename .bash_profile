@@ -1,0 +1,1 @@
+alias cds='source C:/Users/piyo_/Documents/GitHub/semi-conductor/cds.sh';

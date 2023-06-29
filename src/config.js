@@ -73,18 +73,8 @@ export default {
   "zones": [
     {
       "start": 0,
-      "end": 260,
-      "instruments": ["violin", "string ensemble 1"]
-    },
-    {
-      "start": 260,
-      "end": 340,
-      "instruments": ["violin", "string ensemble 1", "viola", "cello", "contrabass"]
-    },
-    {
-      "start": 340,
-      "end": 600,
-      "instruments": ["viola", "cello", "contrabass"]
+     "end": 600,
+      "instruments": ["Piano", "Harp", "Vocal", "Violin", "Flute"]
     }
   ]
 }
